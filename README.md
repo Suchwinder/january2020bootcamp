@@ -1,3 +1,4 @@
+#random change to do pull request -ss
 # Tech Talent Pipeline Residency: Hunter College Fall 2020
 
 Class Days and Class Times:
